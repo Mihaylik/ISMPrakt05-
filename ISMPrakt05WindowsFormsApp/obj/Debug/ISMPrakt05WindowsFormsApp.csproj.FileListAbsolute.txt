@@ -1,0 +1,13 @@
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05WindowsFormsApp\bin\Debug\ISMPrakt05WindowsFormsApp.exe.config
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05WindowsFormsApp\bin\Debug\ISMPrakt05WindowsFormsApp.exe
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05WindowsFormsApp\bin\Debug\ISMPrakt05WindowsFormsApp.pdb
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05WindowsFormsApp\bin\Debug\ISMPrakt05ClassLibrary.dll
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05WindowsFormsApp\bin\Debug\ISMPrakt05ClassLibrary.pdb
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05WindowsFormsApp\obj\Debug\ISMPrakt05WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05WindowsFormsApp\obj\Debug\ISMPrakt05WindowsFormsApp.MainForm.resources
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05WindowsFormsApp\obj\Debug\ISMPrakt05WindowsFormsApp.Properties.Resources.resources
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05WindowsFormsApp\obj\Debug\ISMPrakt05WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05WindowsFormsApp\obj\Debug\ISMPrakt05WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05WindowsFormsApp\obj\Debug\ISMPrakt05WindowsFormsApp.csproj.CopyComplete
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05WindowsFormsApp\obj\Debug\ISMPrakt05WindowsFormsApp.exe
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05WindowsFormsApp\obj\Debug\ISMPrakt05WindowsFormsApp.pdb

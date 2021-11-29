@@ -1,0 +1,10 @@
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05ConsoleApp\bin\Debug\ISMPrakt05ConsoleApp.exe.config
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05ConsoleApp\bin\Debug\ISMPrakt05ConsoleApp.exe
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05ConsoleApp\bin\Debug\ISMPrakt05ConsoleApp.pdb
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05ConsoleApp\bin\Debug\ISMPrakt05ClassLibrary.dll
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05ConsoleApp\bin\Debug\ISMPrakt05ClassLibrary.pdb
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05ConsoleApp\obj\Debug\ISMPrakt05ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05ConsoleApp\obj\Debug\ISMPrakt05ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05ConsoleApp\obj\Debug\ISMPrakt05ConsoleApp.csproj.CopyComplete
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05ConsoleApp\obj\Debug\ISMPrakt05ConsoleApp.exe
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05ConsoleApp\obj\Debug\ISMPrakt05ConsoleApp.pdb

@@ -1,0 +1,6 @@
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05ClassLibrary\bin\Debug\ISMPrakt05ClassLibrary.dll
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05ClassLibrary\bin\Debug\ISMPrakt05ClassLibrary.pdb
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05ClassLibrary\obj\Debug\ISMPrakt05ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05ClassLibrary\obj\Debug\ISMPrakt05ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05ClassLibrary\obj\Debug\ISMPrakt05ClassLibrary.dll
+C:\Users\Дима\source\repos\ISMPrakt05\ISMPrakt05ClassLibrary\obj\Debug\ISMPrakt05ClassLibrary.pdb
